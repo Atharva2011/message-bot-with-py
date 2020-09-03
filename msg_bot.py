@@ -9,7 +9,7 @@ def send_sms(number, message):
     #body
 
     params = {
-        "authorization": "rqytlKmTuWsJHcD6SeEj5U1YbGMBfXg3I8LvVOwp2A4RiZF0naD1vwgj9T0uHB7ObdGqJAxZSze8rKnV",
+        "authorization": "your_API_key",
         "language": "unicode",
         "sender_id": "FSTSMS",
         "message":message,
